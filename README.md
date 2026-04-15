@@ -97,5 +97,5 @@ Gosto de entender o problema antes da solução, e acredito que dados só fazem 
 
 ## 🔗 Contato
 
-LinkedIn: (coloque seu link aqui)
+LinkedIn: https://www.linkedin.com/in/acarolmendes/
 Instagram: @haxis.data
